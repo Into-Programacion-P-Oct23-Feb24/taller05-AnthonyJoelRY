@@ -1,0 +1,12 @@
+Algoritmo: 
+
+1.Inicio
+2.pedimos la edad de la persona
+3.pedimos los valores a pagar de spotify 
+4.pedimos los valores a pagar de dropbox 
+5.pedimos los valores a pagar de netflix
+6.pedimos los valores a pagar de youtube Premiun
+7.sumamos todos estos valores pedidos exepto la edad
+8.si la edad el mayor a 30 multiplicamos la suma de los valores ingresados exeptuando la edad por 0.20 y a esto le restamos el valor total
+9.presentamos la suma de los valores ingresados exeptuando la edad 
+10.Fin

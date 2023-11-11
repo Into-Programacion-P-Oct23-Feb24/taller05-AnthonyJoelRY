@@ -1,0 +1,10 @@
+Algoritmo: 
+
+1.Inicio
+2.pedimos los gastos del hijo numero uno.
+3.pedimos los gastos del hijo numero dos. 
+4.pedimos los gastos del hijo numero tres.
+5.sumamos los gastos del hijo numero uno mas los gastos del hijo numero dos. 
+6.mas los gastos del hijo numero tres.
+7.prensentamos la suma de los gastos de los tres hijos.
+8.Fin

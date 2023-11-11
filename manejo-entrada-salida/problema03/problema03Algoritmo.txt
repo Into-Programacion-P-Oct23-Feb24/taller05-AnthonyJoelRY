@@ -1,0 +1,8 @@
+Algoritmo: 
+
+1.Inicio
+2.pedimos los precio por minutos. 
+3.pedimos los minutos gastados en el mes. 
+4.multiplicamos el precio por minutos por los minutos gastados. 
+5.presentamos en pantalla el resultado de la mutiplicación. 
+6.Fin

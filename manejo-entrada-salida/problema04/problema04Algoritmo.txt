@@ -1,0 +1,10 @@
+Algoritmo: 
+
+1.Inicio
+2.pedimos el valor del cpu
+3.pedimos el valor del teclado
+4.pedimos el valor de la pantalla 
+5.pedimos el valor del raton 
+6.sumamos los valores del cpu mas los valores del raton mas 7.los valores de la pantalla mas los valores del teclado
+9.presentamos en pantalla la suma de estos valores 
+10.Fin
